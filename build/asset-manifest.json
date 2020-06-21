@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a43d4ca6.chunk.css",
+    "main.js": "/static/js/main.582a54f6.chunk.js",
+    "main.js.map": "/static/js/main.582a54f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c40394c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c40394c.js.map",
+    "static/js/2.01abeacd.chunk.js": "/static/js/2.01abeacd.chunk.js",
+    "static/js/2.01abeacd.chunk.js.map": "/static/js/2.01abeacd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9c72a6110df06868d985e67ebddee2bb.js": "/precache-manifest.9c72a6110df06868d985e67ebddee2bb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a43d4ca6.chunk.css.map": "/static/css/main.a43d4ca6.chunk.css.map",
+    "static/js/2.01abeacd.chunk.js.LICENSE.txt": "/static/js/2.01abeacd.chunk.js.LICENSE.txt",
+    "static/media/back_arrow.svg": "/static/media/back_arrow.9376f10e.svg",
+    "static/media/facebook.svg": "/static/media/facebook.1db09742.svg",
+    "static/media/fb_full.svg": "/static/media/fb_full.7f90c2dc.svg",
+    "static/media/location.svg": "/static/media/location.36195e2d.svg",
+    "static/media/logo.svg": "/static/media/logo.d3565bc1.svg",
+    "static/media/select_arrow.svg": "/static/media/select_arrow.8fcb71e6.svg",
+    "static/media/soundcloud.svg": "/static/media/soundcloud.c3bbb772.svg",
+    "static/media/twitter.svg": "/static/media/twitter.77461980.svg",
+    "static/media/volume.svg": "/static/media/volume.6ac3d895.svg",
+    "static/media/youtube.svg": "/static/media/youtube.b916bca0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c40394c.js",
+    "static/js/2.01abeacd.chunk.js",
+    "static/css/main.a43d4ca6.chunk.css",
+    "static/js/main.582a54f6.chunk.js"
+  ]
+}
